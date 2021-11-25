@@ -1,4 +1,6 @@
-### Hi there 👋
+### My name is Arul Verma, a current freshman at University of Illinois Urbana-Champaign. I am interested in Machine Learning and Blockchain based projects and enjoy working on algorithmic programs in my spare time. 
+
+
 
 <!--
 **arulverma/arulverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
